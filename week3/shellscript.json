@@ -1,0 +1,23 @@
+#!/bin/bash
+
+SC='\033[0m'
+
+BLACK='\033[0;30m'
+RED='\033[31m'
+GREEN='\033[32m'
+BROWN='\033[0;33m'
+BLUE='\033[0;34m'
+PURPLE='\033[35m'
+CYAN='\033[36m'
+GREY='\033[37m'
+
+
+echo -e "${BLACK} black colour.${SC}"
+echo -e "${RED} red colour.${SC}"
+echo -e "${GREEN} green colour.${SC}"
+echo -e "${BROWN} brown colour.${SC}"
+echo -e "${BLUE} blue colour.${SC}"
+echo -e "${PURPLE} purple colour.${SC}"
+echo -e "${CYAN} cyan colour.${SC}"
+echo -e "${GREY} grey colour.${SC}"
+exit 0
