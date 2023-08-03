@@ -1,5 +1,6 @@
 #!/bin/bash
 
+
 function printError()
 
 {
@@ -18,12 +19,12 @@ function guessing()
 read -p "$1"
 while (( $REPLY != 42));
 do
-if [[ $REPLY -ge $2 && $REPLY -lt $3 && $REPLY -lt 42 ]];
+if [[ $REPLY -ge $2 && $REPLY -le $3 && $REPLY -lt 42 ]];
 then
 echo      "TOO LOW!"
 read -p "$1"
 
-elif [[ $REPLY -gt $2 && $REPLY -lt $3 && $REPLY -gt 42 ]];
+elif [[ $REPLY -gt $2 && $REPLY -le $3 && $REPLY -gt 42 ]];
 
 then
 
