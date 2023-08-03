@@ -1,0 +1,22 @@
+total 64
+drwxrwxr-x 2 student student 4096 Jul 19 06:38 [A
+-rw-rw-r-- 1 student student   12 Jul 18 13:14 a2
+-rw-rw-r-- 1 student student    0 Jul 19 01:49 abc
+-rw-rw-r-- 1 student student    0 Jul 19 01:49 cat
+-rwxrwxr-x 1 student student  882 Jul 20 12:02 chatgpt.sh
+-rw-rw-r-- 1 student student    8 Jul 17 01:20 count.txt
+-rw-rw-r-- 1 student student    0 Jul 19 01:52 echo
+-rw-rw-r-- 1 student student 4423 Jul 18 13:32 how
+-rwxrwxrwx 1 student student  230 Jul 20 15:03 menu.sh
+-rwxrwxrwx 1 student student  860 Jul 20 11:59 pwdchk.sh
+-rw-rw-r-- 1 student student    0 Jul 21 00:30 sunil
+-rw-rw-r-- 1 student student    0 Jul 21 00:32 sunil.txt
+-rwxrwxrwx 1 student student  118 Jul 16 09:17 sunil1.sh
+-rwxrwxrwx 1 student student  211 Jul 17 01:08 sunil2.sh
+-rw-rw-r-- 1 student student    0 Jul 21 00:29 sunilpwd.txt
+drwxrwxr-x 2 student student 4096 Jul 19 06:35 test
+drwxr-xr-x 2 root    root    4096 Jul 18 08:10 test-18072023:08:10
+-rwxrwxrwx 1 student student 1404 Jul 18 08:09 test.sh
+-rwxr--r-- 1 student student  472 Jul 19 06:38 test2.sh
+-rwxrwxrwx 1 student student  360 Jul 19 13:07 test5 value check.sh
+-rwxrwxrwx 1 student student  387 Jul 19 13:40 uv.sh
