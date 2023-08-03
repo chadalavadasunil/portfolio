@@ -1,7 +1,7 @@
 #!/bin/bash
 user_file=$(cat userpassword.txt)
-read -rsp "please enter the password" password
-
+############### TYPE 'sunil' FOR THE PASSWORD  ###################
+read -rsp "please enter the password :" password         
  hashpassword=$(echo -n "$password" | sha256sum | awk '{print $1}')
 #hashpassword=$(echo -n "$password" | sha256sum )
 
@@ -92,7 +92,7 @@ i=1
 while  i=1
 do
 read -rp "enter operator or type 'q' to quit :" operator
-if [ $operator = "q" ];
+if [ "$operator" = "q" ];
 then
 break
 fi
