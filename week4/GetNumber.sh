@@ -11,9 +11,7 @@ Getthenumber()
 {
     read -p "$1"
 
-
  while (( $REPLY < $2 || $REPLY> $3 )); do
-
 PrintError "input must be between $2 and $3"
 read -p "$1"
 done
