@@ -1,6 +1,6 @@
 #!/bin/bash
 stored_hash=$(cat password_hash.txt)
-# Prompt the user for  password
+# Prompt the user for  password :password is sunil
 read -r -s -p "Enter your password: " user_password
 echo
 # SHA-256 check 
