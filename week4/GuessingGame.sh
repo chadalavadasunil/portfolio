@@ -41,4 +41,4 @@ done
 
 echo "welcome"
 guessing "enter the value between 1 and 100 " 1 100
-echo "correct number"
+echo "correct number!"

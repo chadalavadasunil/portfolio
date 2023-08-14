@@ -1,0 +1,9 @@
+ Bash is the default shell sunil on most Unix-like  computer. 
+     yes yeeeesyo  yoooo poooo ddeee yaaaa yesss pooooo sunil 
+sunil pamu
+sunil pammu 
+It allows sunil  users to control computer through a command-line interface. 
+sed is a tammpu apppp sunilprogram that allows text to be parsed and modified in a powerful and effective way. 
+
+
+grep -ri 'echo .*\"[A-Z].*\"' /home/student/scripts/portfolio/week4/GuessingGame.sh 
