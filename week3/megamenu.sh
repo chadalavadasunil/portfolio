@@ -1,6 +1,6 @@
 #!/bin/bash
 user_file=$(cat userpassword.txt)
-############### TYPE 'sunil' FOR THE PASSWORD  ###################
+############### TYPE 'sunil' FOR THE PASSWORD  ####################
 read -rsp "please enter the password :" password         
  hashpassword=$(echo -n "$password" | sha256sum | awk '{print $1}')
 #hashpassword=$(echo -n "$password" | sha256sum )
