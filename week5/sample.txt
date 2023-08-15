@@ -1,0 +1,5 @@
+name   job location
+sunil  IT  SYD
+RAVI   IT  SYD
+PAVAN  IT  SYD
+SANDEEP IT MEL
