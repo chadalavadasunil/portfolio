@@ -1,16 +1,10 @@
 #!/bin/bash
 
-##
+clear
 function printError()
 
 {
-# if [[ $REPLY -lt $3 ]];
-
-# then
-# echo -e "Error: $1"
-# else
 echo -e "\033[41mError:\033[00m $1"
-# fi
 }
 
 
